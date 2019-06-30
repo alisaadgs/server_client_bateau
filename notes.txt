@@ -1,0 +1,4 @@
+//nom_b[counter_bateau] ** les noms des bateaux
+//vitesse_b[counter_bateau] ** les vitesse des bateaux
+//direction_b[counter_bateau] ** les direction des bateaux
+//coo_bateau[counter_bateau][0] ,coo_bateau[counter_bateau][1] ** les coordonee x,y des bateaux
